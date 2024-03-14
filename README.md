@@ -14,11 +14,23 @@
             },
             databases: ["mySQL", "SQLServer", "PostgreSQL"]
          },
+          designSkills: {
+              pixelPerfect: true,
+              tools: ["Figma"]
+          },
+          additionalSkills: {
+              responsible: true, 
+              teamwork: true,
+              creative: true,
+              punctual: true, 
+              proactive: true, 
+              autodidact: true
+          },
          challenge: "I'm working to be the best.",
       };
 ```
-
 </br></br>
+
 <h2>💻 Some stats 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=obernalv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
