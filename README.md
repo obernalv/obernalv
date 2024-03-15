@@ -16,7 +16,7 @@
          },
           designSkills: {
               pixelPerfect: true,
-              tools: ["Figma"]
+              tools: ["CSS"]
           },
           additionalSkills: {
               responsible: true, 
